@@ -6,7 +6,6 @@
 
 
 
-
 #| classic fib |#
 (define (fib n)
         (if (or? (=? n 0) (=? n 1)) n
