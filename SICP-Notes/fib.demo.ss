@@ -57,4 +57,3 @@
 ;; <-: get(=) the res without need:
 ;; ->: whole func res
 
-
